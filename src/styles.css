@@ -1,0 +1,19 @@
+.App {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+body {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  background: ghostwhite;
+}
+a,
+a:visited,
+a:active,
+a:hover,
+a:focus {
+  color: dodgerBlue;
+  text-decoration: none;
+}
